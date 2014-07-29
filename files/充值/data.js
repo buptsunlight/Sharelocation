@@ -1,0 +1,4116 @@
+﻿$axure.loadCurrentPage({
+  "url":"充值.html",
+  "generationDate":new Date(1405317799292.46),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"49840d6ab072489d993be24e97b36618",
+    "type":"Axure:Page",
+    "name":"充值",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"1f0f4a2e32a743af9a0cabcfe1fcb906",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "location":{
+              "x":0,
+              "y":70},
+            "size":{
+              "width":1000,
+              "height":730},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"de2049abf28e4a719f726835f05e138b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "location":{
+                  "x":0,
+                  "y":70},
+                "size":{
+                  "width":1000,
+                  "height":730},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/用户信息/u0.png"}},
+{
+          "id":"dd48e056af5d4ef68514e974cd59aa58",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF333333},
+            "size":{
+              "width":1000,
+              "height":70},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF333333}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4ba39fa739c841469381e5189529da8f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF333333},
+                "size":{
+                  "width":1000,
+                  "height":70},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF333333}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/管理中心总览/u2.png"}},
+{
+          "id":"e6f678d9c3dd47b5be2f295d7bdc4442",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fontSize":"16px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":20,
+              "y":10},
+            "size":{
+              "width":50,
+              "height":50},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "cornerRadiusTopLeft":"20"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b978d20ad5404cf29a62a7f8c2a2bf0f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fontSize":"16px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":20,
+                  "y":10},
+                "size":{
+                  "width":50,
+                  "height":50},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "cornerRadiusTopLeft":"20"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/管理中心总览/u4.png"}},
+{
+          "id":"2d8d15c185174914ad52a9f9deada0f1",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fontSize":"16px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "location":{
+              "x":81,
+              "y":25},
+            "size":{
+              "width":65,
+              "height":18}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"403f889c0b5848b9b375d5163d21cb76",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fontSize":"16px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "location":{
+                  "x":81,
+                  "y":25},
+                "size":{
+                  "width":65,
+                  "height":18}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"81fafec9d6b44c9da3e4edab082c0270",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fontSize":"14px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "location":{
+              "x":180,
+              "y":26},
+            "size":{
+              "width":29,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e2763743b6214042983a00ada90c1d08",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fontSize":"14px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "location":{
+                  "x":180,
+                  "y":26},
+                "size":{
+                  "width":29,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"4a9c9a730eee46a4acc787ccc5e60569",
+          "label":"",
+          "type":"verticalLine",
+          "styleType":"verticalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":230,
+              "y":23},
+            "size":{
+              "width":10,
+              "height":20},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/管理中心总览/u10_line.png"}},
+{
+          "id":"43097c420efe44768439f2dfa8c43ba7",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fontSize":"14px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "location":{
+              "x":251,
+              "y":26},
+            "size":{
+              "width":43,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a338af1433ee4768be537373e68f3a6a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fontSize":"14px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "location":{
+                  "x":251,
+                  "y":26},
+                "size":{
+                  "width":43,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"b203ae53fe68414aa666ec46671ca738",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "location":{
+              "x":295,
+              "y":32},
+            "size":{
+              "width":6,
+              "height":4},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"58d4112e331f488a94bd3e3a6b5f3c3d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "location":{
+                  "x":295,
+                  "y":32},
+                "size":{
+                  "width":6,
+                  "height":4},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/管理中心总览/u13.png"}},
+{
+          "id":"c1140963bf33439390da625c24a2a4a7",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF333333},
+            "location":{
+              "x":295,
+              "y":30},
+            "size":{
+              "width":6,
+              "height":4},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF333333}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"46e73d2d4ea649cc93a53260f6a36045",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF333333},
+                "location":{
+                  "x":295,
+                  "y":30},
+                "size":{
+                  "width":6,
+                  "height":4},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF333333}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/管理中心总览/u15.png"}},
+{
+          "id":"f1b177b6e67e400095773655b39cd334",
+          "label":"",
+          "type":"verticalLine",
+          "styleType":"verticalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":310,
+              "y":23},
+            "size":{
+              "width":10,
+              "height":20},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/管理中心总览/u10_line.png"}},
+{
+          "id":"1237aeff4ab64a7597dc44cfda0b9f78",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fontSize":"14px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "location":{
+              "x":324,
+              "y":26},
+            "size":{
+              "width":57,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"73c7e60061ba4b52b662c564396805d7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fontSize":"14px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "location":{
+                  "x":324,
+                  "y":26},
+                "size":{
+                  "width":57,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"c94b36df401245b08335008abd816c3c",
+          "label":"",
+          "type":"verticalLine",
+          "styleType":"verticalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":390,
+              "y":23},
+            "size":{
+              "width":10,
+              "height":20},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/管理中心总览/u10_line.png"}},
+{
+          "id":"391fbde8beec4c9396625c1517db5d54",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fontSize":"14px",
+            "fontWeight":"400",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "location":{
+              "x":407,
+              "y":26},
+            "size":{
+              "width":57,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"1c686f82c51147e18aa02da653c87b53",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fontSize":"14px",
+                "fontWeight":"400",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "location":{
+                  "x":407,
+                  "y":26},
+                "size":{
+                  "width":57,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"20e3a03473314da2960a9d65f71a54fd",
+          "label":"",
+          "type":"verticalLine",
+          "styleType":"verticalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":470,
+              "y":23},
+            "size":{
+              "width":10,
+              "height":20},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/管理中心总览/u10_line.png"}},
+{
+          "id":"c98cfba1f47548f993f8ed1a2de6fb6d",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fontSize":"14px",
+            "fontWeight":"400",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "location":{
+              "x":487,
+              "y":26},
+            "size":{
+              "width":57,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"085718b2ce64484189259da5e3e472c7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fontSize":"14px",
+                "fontWeight":"400",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "location":{
+                  "x":487,
+                  "y":26},
+                "size":{
+                  "width":57,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"fe193ce91b234ea2a1c46b57c06f1a0c",
+          "label":"",
+          "type":"verticalLine",
+          "styleType":"verticalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":550,
+              "y":23},
+            "size":{
+              "width":10,
+              "height":20},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/管理中心总览/u10_line.png"}},
+{
+          "id":"82c47c2d570a4df1bd67f478e65e9eb9",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fontSize":"14px",
+            "fontWeight":"400",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "location":{
+              "x":567,
+              "y":26},
+            "size":{
+              "width":57,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e18089bc918f492f9841079506f03ed4",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fontSize":"14px",
+                "fontWeight":"400",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "location":{
+                  "x":567,
+                  "y":26},
+                "size":{
+                  "width":57,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"78dad0400e2d4224ac10cd5ddad1efb8",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "location":{
+              "x":406,
+              "y":64},
+            "size":{
+              "width":58,
+              "height":5},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"aad4e2e7b88a4b0aa49c61517614a255",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "location":{
+                  "x":406,
+                  "y":64},
+                "size":{
+                  "width":58,
+                  "height":5},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/我的订单/u29.png"}},
+{
+          "id":"974635ecbcbd48c98a0524f94c532dfe",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fontSize":"12px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF999999,
+              "opacity":1},
+            "location":{
+              "x":765,
+              "y":28},
+            "size":{
+              "width":139,
+              "height":14}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ff9afa3e00cd41229910bd3aa39a2362",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fontSize":"12px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF999999,
+                  "opacity":1},
+                "location":{
+                  "x":765,
+                  "y":28},
+                "size":{
+                  "width":139,
+                  "height":14}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"99a4f92707ba4be8bc54b5dbdf305b43",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fontSize":"12px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF999999,
+              "opacity":1},
+            "location":{
+              "x":936,
+              "y":27},
+            "size":{
+              "width":25,
+              "height":14}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8aa7e20829ff4ea8ac1966bd47191071",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fontSize":"12px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF999999,
+                  "opacity":1},
+                "location":{
+                  "x":936,
+                  "y":27},
+                "size":{
+                  "width":25,
+                  "height":14}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"c2ade364b5884f938d59160256e1714a",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "location":{
+              "x":381,
+              "y":32},
+            "size":{
+              "width":6,
+              "height":4},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"964c2cafcaf94d9abb3cbe3adc3eba05",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "location":{
+                  "x":381,
+                  "y":32},
+                "size":{
+                  "width":6,
+                  "height":4},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/管理中心总览/u13.png"}},
+{
+          "id":"3adb53df9df141c4a2debe15966b8d15",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF333333},
+            "location":{
+              "x":381,
+              "y":30},
+            "size":{
+              "width":6,
+              "height":4},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF333333}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a75be6cb21ae4824825800b885ca09bc",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF333333},
+                "location":{
+                  "x":381,
+                  "y":30},
+                "size":{
+                  "width":6,
+                  "height":4},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF333333}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/管理中心总览/u15.png"}},
+{
+          "id":"e19f428903194eaead8e3acf2ff450b7",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF999999},
+            "location":{
+              "x":913,
+              "y":32},
+            "size":{
+              "width":6,
+              "height":4},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF999999}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"948ad92934a14df1a8339c4d58f5ddcf",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF999999},
+                "location":{
+                  "x":913,
+                  "y":32},
+                "size":{
+                  "width":6,
+                  "height":4},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF999999}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/管理中心总览/u42.png"}},
+{
+          "id":"90272d8d0742403fbdd243798c38ad56",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF333333},
+            "location":{
+              "x":913,
+              "y":30},
+            "size":{
+              "width":6,
+              "height":4},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF333333}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"53044af12e0e4fb8b6a7e797a98bd446",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF333333},
+                "location":{
+                  "x":913,
+                  "y":30},
+                "size":{
+                  "width":6,
+                  "height":4},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF333333}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/管理中心总览/u15.png"}},
+{
+          "id":"3e4846d6b85b4910ae79c84e4992ae7a",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF999999},
+            "location":{
+              "x":964,
+              "y":32},
+            "size":{
+              "width":6,
+              "height":4},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF999999}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4e08adc26254415d9aa248b6486bd386",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF999999},
+                "location":{
+                  "x":964,
+                  "y":32},
+                "size":{
+                  "width":6,
+                  "height":4},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF999999}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/管理中心总览/u42.png"}},
+{
+          "id":"b18f0c7ba964477ea6c9bb82ecfb52bb",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF333333},
+            "location":{
+              "x":964,
+              "y":30},
+            "size":{
+              "width":6,
+              "height":4},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF333333}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d234aa971ecb4244ac300b84065ab7da",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF333333},
+                "location":{
+                  "x":964,
+                  "y":30},
+                "size":{
+                  "width":6,
+                  "height":4},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF333333}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/管理中心总览/u15.png"}},
+{
+          "id":"335c9444b79544f3b7f8061d42e5ce99",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF7F7F7},
+            "location":{
+              "x":0,
+              "y":70},
+            "size":{
+              "width":200,
+              "height":730},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFDCE4EA}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"75a01d15f52248409fa028e2ef1fa26a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF7F7F7},
+                "location":{
+                  "x":0,
+                  "y":70},
+                "size":{
+                  "width":200,
+                  "height":730},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFDCE4EA}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/用户信息/u50.png"}},
+{
+          "id":"0111e83e721c419ab495217cca904399",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "location":{
+              "x":31,
+              "y":149},
+            "size":{
+              "width":29,
+              "height":26}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6dd2801c269441cdb370644f4fc2b144",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "location":{
+                  "x":31,
+                  "y":149},
+                "size":{
+                  "width":29,
+                  "height":26}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/dashboard/u52.png"}},
+{
+          "id":"b6cf29c9f47746c9bf9f22f2e8f55a17",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h2",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fontSize":"14px",
+            "fontWeight":"400",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF32445B,
+              "opacity":1},
+            "location":{
+              "x":70,
+              "y":157},
+            "size":{
+              "width":57,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"2d0eff5464c64788baf219ceb408b7cf",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fontSize":"14px",
+                "fontWeight":"400",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF32445B,
+                  "opacity":1},
+                "location":{
+                  "x":70,
+                  "y":157},
+                "size":{
+                  "width":57,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"044b90fc96f44f6bb4f37c5511757cf2",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":15,
+              "y":185},
+            "size":{
+              "width":170,
+              "height":10},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFDCE4EA}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/dashboard/u56_line.png"}},
+{
+          "id":"ceb1a238d634423c94b8c24108a9e4d6",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "location":{
+              "x":32,
+              "y":206},
+            "size":{
+              "width":27,
+              "height":31}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f26187322c3f439b9995ac9bac751bcd",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "location":{
+                  "x":32,
+                  "y":206},
+                "size":{
+                  "width":27,
+                  "height":31}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/dashboard/u57.png"}},
+{
+          "id":"5a5cb31469e14f4a963db0df8733120b",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h2",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fontSize":"14px",
+            "fontWeight":"400",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF95A4B8,
+              "opacity":1},
+            "location":{
+              "x":70,
+              "y":215},
+            "size":{
+              "width":57,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"18feaa50d5c84d789cfb9ce2a8035fdd",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fontSize":"14px",
+                "fontWeight":"400",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF95A4B8,
+                  "opacity":1},
+                "location":{
+                  "x":70,
+                  "y":215},
+                "size":{
+                  "width":57,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"1a162583cb134f98bc63b240800bd8c5",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":15,
+              "y":245},
+            "size":{
+              "width":170,
+              "height":10},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFDCE4EA}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/dashboard/u56_line.png"}},
+{
+          "id":"fd282cedee5948af90ab87a3a3439c9c",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fontWeight":"400",
+            "location":{
+              "x":230,
+              "y":93},
+            "size":{
+              "width":145,
+              "height":18}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"417505964af749d99e72673db6614f52",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fontWeight":"400",
+                "location":{
+                  "x":230,
+                  "y":93},
+                "size":{
+                  "width":145,
+                  "height":18}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"fb9789ce9dd8417b8bc5df689c5e5c8e",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fontSize":"10px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF00CBFF},
+            "location":{
+              "x":903,
+              "y":13},
+            "size":{
+              "width":15,
+              "height":15},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF00CBFF},
+            "cornerRadiusTopLeft":"25"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"684fc7279f074db7a00225ae0f81675d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fontSize":"10px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF00CBFF},
+                "location":{
+                  "x":903,
+                  "y":13},
+                "size":{
+                  "width":15,
+                  "height":15},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF00CBFF},
+                "cornerRadiusTopLeft":"25"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/管理中心总览/u100.png"}},
+{
+          "id":"1cd86989628140d39cf86e61d7d661d2",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":15,
+              "y":125},
+            "size":{
+              "width":170,
+              "height":10},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFDCE4EA}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/dashboard/u56_line.png"}},
+{
+          "id":"39cf81852d37409db9baf0427c6a6199",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fontSize":"16px",
+            "fontWeight":"400",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF32445B,
+              "opacity":1},
+            "location":{
+              "x":33,
+              "y":92},
+            "size":{
+              "width":65,
+              "height":18}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c061178824a44b6194bd724a4cdf06f1",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fontSize":"16px",
+                "fontWeight":"400",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF32445B,
+                  "opacity":1},
+                "location":{
+                  "x":33,
+                  "y":92},
+                "size":{
+                  "width":65,
+                  "height":18}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"b9d8a17a3d2d4c6895a8b51c3ac7cd7d",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "location":{
+              "x":185,
+              "y":149},
+            "size":{
+              "width":36,
+              "height":32},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFDCE4EA},
+            "cornerRadiusTopLeft":"16"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"917e189801754d76b129a4a7bfd7d7af",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "location":{
+                  "x":185,
+                  "y":149},
+                "size":{
+                  "width":36,
+                  "height":32},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFDCE4EA},
+                "cornerRadiusTopLeft":"16"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/dashboard/u214.png"}},
+{
+          "id":"0668b28669ee4ac996b1ea8f854da7b7",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "location":{
+              "x":200,
+              "y":145},
+            "size":{
+              "width":23,
+              "height":40},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "cornerRadiusTopLeft":"2"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c2ebe8423f904547bd916907b921c778",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "location":{
+                  "x":200,
+                  "y":145},
+                "size":{
+                  "width":23,
+                  "height":40},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "cornerRadiusTopLeft":"2"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/dashboard/u216.png"}},
+{
+          "id":"444ded1cde104ea28352c4e5421be658",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFDCE4EA},
+            "location":{
+              "x":194,
+              "y":161},
+            "size":{
+              "width":6,
+              "height":8},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFDCE4EA},
+            "cornerRadiusTopLeft":"2"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"80abd5590986435a88afd5c012880ed7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFDCE4EA},
+                "location":{
+                  "x":194,
+                  "y":161},
+                "size":{
+                  "width":6,
+                  "height":8},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFDCE4EA},
+                "cornerRadiusTopLeft":"2"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/dashboard/u218.png"}},
+{
+          "id":"de007cf76db640bf91b0436f9c9167c0",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF199ED7},
+            "location":{
+              "x":230,
+              "y":148},
+            "size":{
+              "width":200,
+              "height":5},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF199ED7}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ca1db2a4360b4352a58e6b918eb9684f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF199ED7},
+                "location":{
+                  "x":230,
+                  "y":148},
+                "size":{
+                  "width":200,
+                  "height":5},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF199ED7}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/创建实例（无购物车）/u73.png"}},
+{
+          "id":"101ebba385834bd9af1f6d997ba6dc98",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFE4E4E4},
+            "location":{
+              "x":445,
+              "y":149},
+            "size":{
+              "width":200,
+              "height":5},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFE4E4E4}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b46efc62f570459d92a6a71d3d67a2a4",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFE4E4E4},
+                "location":{
+                  "x":445,
+                  "y":149},
+                "size":{
+                  "width":200,
+                  "height":5},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFE4E4E4}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/创建实例（无购物车）/u75.png"}},
+{
+          "id":"c4fa34f5d042497bb76a79f1c1a1c176",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFE4E4E4},
+            "location":{
+              "x":660,
+              "y":149},
+            "size":{
+              "width":200,
+              "height":5},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFE4E4E4}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6b527415b3c44827bbe0fd2cb3497517",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFE4E4E4},
+                "location":{
+                  "x":660,
+                  "y":149},
+                "size":{
+                  "width":200,
+                  "height":5},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFE4E4E4}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/创建实例（无购物车）/u75.png"}},
+{
+          "id":"10619c46393c49278e74f90d668baddb",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fontSize":"14px",
+            "fontWeight":"400",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF199ED7,
+              "opacity":1},
+            "location":{
+              "x":280.5,
+              "y":130},
+            "size":{
+              "width":99,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d4cc92e4beb74004a7721cefda726466",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fontSize":"14px",
+                "fontWeight":"400",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF199ED7,
+                  "opacity":1},
+                "location":{
+                  "x":280.5,
+                  "y":130},
+                "size":{
+                  "width":99,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"bc085c256c784601ab803486286c17e4",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fontSize":"14px",
+            "fontWeight":"400",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF999999,
+              "opacity":1},
+            "location":{
+              "x":523.5,
+              "y":129},
+            "size":{
+              "width":43,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"2f228ef5d78d4fcbb333654de9b1194c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fontSize":"14px",
+                "fontWeight":"400",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF999999,
+                  "opacity":1},
+                "location":{
+                  "x":523.5,
+                  "y":129},
+                "size":{
+                  "width":43,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"0d88bbb2aabf403fa58e4e9bce0b23ec",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fontSize":"14px",
+            "fontWeight":"400",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF999999,
+              "opacity":1},
+            "location":{
+              "x":724.5,
+              "y":129},
+            "size":{
+              "width":71,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6300f29300fc423882ea3a4fa486ad25",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fontSize":"14px",
+                "fontWeight":"400",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF999999,
+                  "opacity":1},
+                "location":{
+                  "x":724.5,
+                  "y":129},
+                "size":{
+                  "width":71,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"8b5b25ee7c2a4bc3890d66883c2a82bc",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fontWeight":"400",
+            "location":{
+              "x":230,
+              "y":172},
+            "size":{
+              "width":141,
+              "height":18}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a477f7e113f3468a805009df637b8836",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fontWeight":"400",
+                "location":{
+                  "x":230,
+                  "y":172},
+                "size":{
+                  "width":141,
+                  "height":18}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"433169f272a14d8db9f7163f8f1e6568",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fontSize":"20px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFF9900,
+              "opacity":1},
+            "location":{
+              "x":315,
+              "y":556},
+            "size":{
+              "width":90,
+              "height":12}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"bf69c6092e6345a78823c5715a4e75b6",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fontSize":"20px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF9900,
+                  "opacity":1},
+                "location":{
+                  "x":315,
+                  "y":556},
+                "size":{
+                  "width":90,
+                  "height":12}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"4c147046001c4f2ca9e3d2e9d20cbff2",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fontSize":"12px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":254,
+              "y":561},
+            "size":{
+              "width":88,
+              "height":12}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f5957f29bcda4684b10addf673ea9fde",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fontSize":"12px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":254,
+                  "y":561},
+                "size":{
+                  "width":88,
+                  "height":12}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"8f03f8d884a34b299a776502ee16b1c5",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fontSize":"14px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFF9900},
+            "location":{
+              "x":253,
+              "y":592},
+            "size":{
+              "width":170,
+              "height":30},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFF9900},
+            "cornerRadiusTopLeft":"2"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"416b935026d84ad5af308f3f2d5c33c8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fontSize":"14px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFF9900},
+                "location":{
+                  "x":253,
+                  "y":592},
+                "size":{
+                  "width":170,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF9900},
+                "cornerRadiusTopLeft":"2"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 支付成功",
+                      "target":{
+                        "targetType":"page",
+                        "url":"支付成功.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/创建实例（无购物车）/u178.png"}},
+{
+          "id":"4b4d958c2bb84179b8c102f5b78de9c2",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fontSize":"14px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":230,
+              "y":309},
+            "size":{
+              "width":57,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"be7fc00285f147279cff72382e8a92fa",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fontSize":"14px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":230,
+                  "y":309},
+                "size":{
+                  "width":57,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"fc1a8593a88d4cf094508dab121ee2be",
+          "label":"",
+          "type":"radioButton",
+          "styleType":"radioButton",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "location":{
+              "x":230,
+              "y":339},
+            "size":{
+              "width":100,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"11b33b85b32a4b298b9f73b26ba81ffe",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "location":{
+                  "x":230,
+                  "y":339},
+                "size":{
+                  "width":100,
+                  "height":16}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"fed9ee53d36e485caf7663f1f09b9fb3",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fontSize":"12px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF999999,
+              "opacity":1},
+            "location":{
+              "x":253,
+              "y":332},
+            "size":{
+              "width":120,
+              "height":30},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "cornerRadiusTopLeft":"2"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4c3d7e18dcb741d197e097c716607da9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fontSize":"12px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF999999,
+                  "opacity":1},
+                "location":{
+                  "x":253,
+                  "y":332},
+                "size":{
+                  "width":120,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "cornerRadiusTopLeft":"2"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/支付/u114.png"}},
+{
+          "id":"f702d79c9a634ab59317dbf17c9d7c51",
+          "label":"",
+          "type":"radioButton",
+          "styleType":"radioButton",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "location":{
+              "x":391,
+              "y":339},
+            "size":{
+              "width":100,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"fa8c98bbad494f6987de571962b11958",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "location":{
+                  "x":391,
+                  "y":339},
+                "size":{
+                  "width":100,
+                  "height":16}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"f4716d05f73943f59a93683e830a418f",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fontSize":"12px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF999999,
+              "opacity":1},
+            "location":{
+              "x":414,
+              "y":332},
+            "size":{
+              "width":120,
+              "height":30},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "cornerRadiusTopLeft":"2"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"01cc016e98ff48d3b8454a011353cbb9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fontSize":"12px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF999999,
+                  "opacity":1},
+                "location":{
+                  "x":414,
+                  "y":332},
+                "size":{
+                  "width":120,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "cornerRadiusTopLeft":"2"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/支付/u114.png"}},
+{
+          "id":"8b0cf3d35f6348eb855b921222292fe5",
+          "label":"",
+          "type":"radioButton",
+          "styleType":"radioButton",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "location":{
+              "x":552,
+              "y":339},
+            "size":{
+              "width":100,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e6f461af834e41cdb0ca0a1a01fa2ae7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "location":{
+                  "x":552,
+                  "y":339},
+                "size":{
+                  "width":100,
+                  "height":16}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"970f5254b30849b384531d73c1a8562c",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fontSize":"12px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF999999,
+              "opacity":1},
+            "location":{
+              "x":574,
+              "y":332},
+            "size":{
+              "width":120,
+              "height":30},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "cornerRadiusTopLeft":"2"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"bd39fb7de7a04c61929fd2e19a522ff7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fontSize":"12px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF999999,
+                  "opacity":1},
+                "location":{
+                  "x":574,
+                  "y":332},
+                "size":{
+                  "width":120,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "cornerRadiusTopLeft":"2"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/支付/u114.png"}},
+{
+          "id":"38a1fec6432a48f1add1677207245fd1",
+          "label":"",
+          "type":"radioButton",
+          "styleType":"radioButton",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "location":{
+              "x":230,
+              "y":413},
+            "size":{
+              "width":100,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"28b518f99ada47f9871fe70d7a0ae31c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "location":{
+                  "x":230,
+                  "y":413},
+                "size":{
+                  "width":100,
+                  "height":16}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"5223233a854147aaa233b8d9f519f7ec",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fontSize":"12px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF999999,
+              "opacity":1},
+            "location":{
+              "x":253,
+              "y":406},
+            "size":{
+              "width":120,
+              "height":30},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "cornerRadiusTopLeft":"2"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"374b46e373b54b4cbfb443bc226b35b9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fontSize":"12px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF999999,
+                  "opacity":1},
+                "location":{
+                  "x":253,
+                  "y":406},
+                "size":{
+                  "width":120,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "cornerRadiusTopLeft":"2"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/支付/u114.png"}},
+{
+          "id":"a949d707717a474582fa37beb4616416",
+          "label":"",
+          "type":"radioButton",
+          "styleType":"radioButton",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "location":{
+              "x":391,
+              "y":413},
+            "size":{
+              "width":100,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5ba22356b65f4fdf9dbf127c30a85797",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "location":{
+                  "x":391,
+                  "y":413},
+                "size":{
+                  "width":100,
+                  "height":16}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"168701929c4043abb8a41331baefa1ec",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fontSize":"12px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF999999,
+              "opacity":1},
+            "location":{
+              "x":414,
+              "y":406},
+            "size":{
+              "width":120,
+              "height":30},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "cornerRadiusTopLeft":"2"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4fcb5280cad546cbac1925af71fc12be",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fontSize":"12px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF999999,
+                  "opacity":1},
+                "location":{
+                  "x":414,
+                  "y":406},
+                "size":{
+                  "width":120,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "cornerRadiusTopLeft":"2"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/支付/u114.png"}},
+{
+          "id":"2dc63f1203fe49d7945904532a9d72f0",
+          "label":"",
+          "type":"radioButton",
+          "styleType":"radioButton",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "location":{
+              "x":552,
+              "y":413},
+            "size":{
+              "width":100,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8c8a7fdc0b22499a963216759e571d57",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "location":{
+                  "x":552,
+                  "y":413},
+                "size":{
+                  "width":100,
+                  "height":16}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"484c9fb4fd1a44209539a05ed199f088",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fontSize":"12px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF999999,
+              "opacity":1},
+            "location":{
+              "x":574,
+              "y":406},
+            "size":{
+              "width":120,
+              "height":30},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "cornerRadiusTopLeft":"2"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"adb77cf6bd734786b335313a6c6d2c50",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fontSize":"12px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF999999,
+                  "opacity":1},
+                "location":{
+                  "x":574,
+                  "y":406},
+                "size":{
+                  "width":120,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "cornerRadiusTopLeft":"2"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/支付/u114.png"}},
+{
+          "id":"a3616d00d2004f4e997884a30252a96d",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fontSize":"14px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":230,
+              "y":382},
+            "size":{
+              "width":57,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e24d4ab00c4e490fa37a793b8cfd3c0d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fontSize":"14px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":230,
+                  "y":382},
+                "size":{
+                  "width":57,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"b7ca19efca954875856dbd1dc658d9de",
+          "label":"",
+          "type":"radioButton",
+          "styleType":"radioButton",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "location":{
+              "x":713,
+              "y":413},
+            "size":{
+              "width":100,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"912084e7c0b54153bb2eebddb641ba60",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "location":{
+                  "x":713,
+                  "y":413},
+                "size":{
+                  "width":100,
+                  "height":16}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"759d12954d224cb18b7c8f4e01c28c8f",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fontSize":"12px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF999999,
+              "opacity":1},
+            "location":{
+              "x":735,
+              "y":406},
+            "size":{
+              "width":120,
+              "height":30},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "cornerRadiusTopLeft":"2"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"1b9cc20127704720a9f762fac4880225",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fontSize":"12px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF999999,
+                  "opacity":1},
+                "location":{
+                  "x":735,
+                  "y":406},
+                "size":{
+                  "width":120,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "cornerRadiusTopLeft":"2"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/支付/u114.png"}},
+{
+          "id":"b841d288d942449e8b2f60c1e6a5bbd5",
+          "label":"",
+          "type":"radioButton",
+          "styleType":"radioButton",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "location":{
+              "x":230,
+              "y":463},
+            "size":{
+              "width":100,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"749ca963235144e98bece07878288b63",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "location":{
+                  "x":230,
+                  "y":463},
+                "size":{
+                  "width":100,
+                  "height":16}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"46992418b7d34305aee189a8a00b3abe",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fontSize":"12px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF999999,
+              "opacity":1},
+            "location":{
+              "x":253,
+              "y":456},
+            "size":{
+              "width":120,
+              "height":30},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "cornerRadiusTopLeft":"2"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"beb5e376c5c447d39ddeeb56b95f7824",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fontSize":"12px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF999999,
+                  "opacity":1},
+                "location":{
+                  "x":253,
+                  "y":456},
+                "size":{
+                  "width":120,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "cornerRadiusTopLeft":"2"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/支付/u114.png"}},
+{
+          "id":"040d7c2714cb4304af9b91bc533fbc6c",
+          "label":"",
+          "type":"radioButton",
+          "styleType":"radioButton",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "location":{
+              "x":391,
+              "y":463},
+            "size":{
+              "width":100,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"796988242c0b42df92413c6f9abe4ebd",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "location":{
+                  "x":391,
+                  "y":463},
+                "size":{
+                  "width":100,
+                  "height":16}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"18e48d1d000643928f1febb9c62d8314",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fontSize":"12px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF999999,
+              "opacity":1},
+            "location":{
+              "x":414,
+              "y":456},
+            "size":{
+              "width":120,
+              "height":30},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "cornerRadiusTopLeft":"2"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9c040e4738ed47409ee861afc386a90b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fontSize":"12px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF999999,
+                  "opacity":1},
+                "location":{
+                  "x":414,
+                  "y":456},
+                "size":{
+                  "width":120,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "cornerRadiusTopLeft":"2"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/支付/u114.png"}},
+{
+          "id":"5b6a00f1f98042cca46064df95990c73",
+          "label":"",
+          "type":"radioButton",
+          "styleType":"radioButton",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "location":{
+              "x":552,
+              "y":463},
+            "size":{
+              "width":100,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e109ee53125a449997731d0b9d60f490",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "location":{
+                  "x":552,
+                  "y":463},
+                "size":{
+                  "width":100,
+                  "height":16}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"04aa5102b65a4e85af2ba8a5dfe0fec0",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fontSize":"12px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF999999,
+              "opacity":1},
+            "location":{
+              "x":574,
+              "y":456},
+            "size":{
+              "width":120,
+              "height":30},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "cornerRadiusTopLeft":"2"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"beb9e331f01e48fea85caa868a823e58",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fontSize":"12px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF999999,
+                  "opacity":1},
+                "location":{
+                  "x":574,
+                  "y":456},
+                "size":{
+                  "width":120,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "cornerRadiusTopLeft":"2"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/支付/u114.png"}},
+{
+          "id":"a3380814eaec47c58fd0a3327d552912",
+          "label":"",
+          "type":"radioButton",
+          "styleType":"radioButton",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "location":{
+              "x":713,
+              "y":463},
+            "size":{
+              "width":100,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9b6f9a00cd9945f1bf8c457839374b1d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "location":{
+                  "x":713,
+                  "y":463},
+                "size":{
+                  "width":100,
+                  "height":16}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"0aa85d8f20e64a5e8bece33f73151290",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fontSize":"12px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF999999,
+              "opacity":1},
+            "location":{
+              "x":735,
+              "y":456},
+            "size":{
+              "width":120,
+              "height":30},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "cornerRadiusTopLeft":"2"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"bc3a8075b6bc42c0b6796d59ee18e3e4",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fontSize":"12px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF999999,
+                  "opacity":1},
+                "location":{
+                  "x":735,
+                  "y":456},
+                "size":{
+                  "width":120,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "cornerRadiusTopLeft":"2"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/支付/u114.png"}},
+{
+          "id":"7e5accdea20d464bb15215e89ec8c664",
+          "label":"",
+          "type":"radioButton",
+          "styleType":"radioButton",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "location":{
+              "x":230,
+              "y":513},
+            "size":{
+              "width":100,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"356431a3fe34444b815be968f6151a4f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "location":{
+                  "x":230,
+                  "y":513},
+                "size":{
+                  "width":100,
+                  "height":16}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"16dc8a561680458194fc40d6185986aa",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fontSize":"12px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF999999,
+              "opacity":1},
+            "location":{
+              "x":253,
+              "y":506},
+            "size":{
+              "width":120,
+              "height":30},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "cornerRadiusTopLeft":"2"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9d1155885842485c9718d52819b3542e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fontSize":"12px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF999999,
+                  "opacity":1},
+                "location":{
+                  "x":253,
+                  "y":506},
+                "size":{
+                  "width":120,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "cornerRadiusTopLeft":"2"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/支付/u114.png"}},
+{
+          "id":"c5dc712fb8d64b27bf126b0ae70fc490",
+          "label":"",
+          "type":"radioButton",
+          "styleType":"radioButton",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "location":{
+              "x":391,
+              "y":513},
+            "size":{
+              "width":100,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5ab024c707a249f18e16f15ef8272780",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "location":{
+                  "x":391,
+                  "y":513},
+                "size":{
+                  "width":100,
+                  "height":16}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"9f67751248c347c389d60ab856c9d04d",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fontSize":"12px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF999999,
+              "opacity":1},
+            "location":{
+              "x":414,
+              "y":506},
+            "size":{
+              "width":120,
+              "height":30},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "cornerRadiusTopLeft":"2"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"878c0f3c42f241618b77ef79f6a8a5e6",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fontSize":"12px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF999999,
+                  "opacity":1},
+                "location":{
+                  "x":414,
+                  "y":506},
+                "size":{
+                  "width":120,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "cornerRadiusTopLeft":"2"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/支付/u114.png"}},
+{
+          "id":"3f4b9a8546b34c70ae8561098d391a50",
+          "label":"",
+          "type":"radioButton",
+          "styleType":"radioButton",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "location":{
+              "x":552,
+              "y":513},
+            "size":{
+              "width":100,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"fe4903e34e8d4a08bfd4ea4c5ab27006",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "location":{
+                  "x":552,
+                  "y":513},
+                "size":{
+                  "width":100,
+                  "height":16}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"49985ad311eb4591b0c4fca8fe553bba",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fontSize":"12px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF999999,
+              "opacity":1},
+            "location":{
+              "x":574,
+              "y":506},
+            "size":{
+              "width":120,
+              "height":30},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "cornerRadiusTopLeft":"2"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"fec2c363350e4c5c809927b64ef656b2",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fontSize":"12px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF999999,
+                  "opacity":1},
+                "location":{
+                  "x":574,
+                  "y":506},
+                "size":{
+                  "width":120,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "cornerRadiusTopLeft":"2"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/支付/u114.png"}},
+{
+          "id":"65918f8844a94e618507e213414f7394",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fontSize":"12px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF199ED7,
+              "opacity":1},
+            "location":{
+              "x":776,
+              "y":516},
+            "size":{
+              "width":37,
+              "height":14}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"222bca83da8843d6bb6e55e3e0cf4451",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fontSize":"12px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF199ED7,
+                  "opacity":1},
+                "location":{
+                  "x":776,
+                  "y":516},
+                "size":{
+                  "width":37,
+                  "height":14}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"60b30668d8f1454cb76efb5852025d38",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fontSize":"12px",
+            "fontWeight":"400",
+            "location":{
+              "x":254,
+              "y":216},
+            "size":{
+              "width":61,
+              "height":14}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a9c86671dd4a46a2bda33beb501ce63a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fontSize":"12px",
+                "fontWeight":"400",
+                "location":{
+                  "x":254,
+                  "y":216},
+                "size":{
+                  "width":61,
+                  "height":14}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"25bab28d74f04c7f866c4d96da02ba19",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fontSize":"12px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF999999,
+              "opacity":1},
+            "location":{
+              "x":315,
+              "y":209},
+            "size":{
+              "width":100,
+              "height":28},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "cornerRadiusTopLeft":"2"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d71765f166784f4d84da083374e4452b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fontSize":"12px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF999999,
+                  "opacity":1},
+                "location":{
+                  "x":315,
+                  "y":209},
+                "size":{
+                  "width":100,
+                  "height":28},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "cornerRadiusTopLeft":"2"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/充值/u156.png"}},
+{
+          "id":"4fe07debf3f444e699ae256759dc9a39",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fontSize":"12px",
+            "fontWeight":"400",
+            "location":{
+              "x":425,
+              "y":216},
+            "size":{
+              "width":13,
+              "height":14}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6d16753d6146464bb5ff70b58b8a31a1",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fontSize":"12px",
+                "fontWeight":"400",
+                "location":{
+                  "x":425,
+                  "y":216},
+                "size":{
+                  "width":13,
+                  "height":14}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"a387a30f7ba44e39b01a03f302fd240d",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":230,
+              "y":251},
+            "size":{
+              "width":630,
+              "height":10},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "linePattern":"dotted"},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/充值/u160_line.png"}},
+{
+          "id":"e6de32cb045143969a844cec792143d7",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fontSize":"14px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":230,
+              "y":276},
+            "size":{
+              "width":127,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"66efaf5073234eeea04d4906dd2abe50",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fontSize":"14px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":230,
+                  "y":276},
+                "size":{
+                  "width":127,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"217b0ba96b7348f08590663c40a93cee",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "fontName":"'SimSun', 'SimSun'",
+            "fontSize":"14px",
+            "fontWeight":"400",
+            "location":{
+              "x":325,
+              "y":215},
+            "size":{
+              "width":22,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4eb9351f20d4427099cec7775d18a4e2",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'SimSun', 'SimSun'",
+                "fontSize":"14px",
+                "fontWeight":"400",
+                "location":{
+                  "x":325,
+                  "y":215},
+                "size":{
+                  "width":22,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "1f0f4a2e32a743af9a0cabcfe1fcb906":{
+      "scriptId":"u0"},
+    "de2049abf28e4a719f726835f05e138b":{
+      "scriptId":"u1"},
+    "dd48e056af5d4ef68514e974cd59aa58":{
+      "scriptId":"u2"},
+    "4ba39fa739c841469381e5189529da8f":{
+      "scriptId":"u3"},
+    "e6f678d9c3dd47b5be2f295d7bdc4442":{
+      "scriptId":"u4"},
+    "b978d20ad5404cf29a62a7f8c2a2bf0f":{
+      "scriptId":"u5"},
+    "2d8d15c185174914ad52a9f9deada0f1":{
+      "scriptId":"u6"},
+    "403f889c0b5848b9b375d5163d21cb76":{
+      "scriptId":"u7"},
+    "81fafec9d6b44c9da3e4edab082c0270":{
+      "scriptId":"u8"},
+    "e2763743b6214042983a00ada90c1d08":{
+      "scriptId":"u9"},
+    "4a9c9a730eee46a4acc787ccc5e60569":{
+      "scriptId":"u10"},
+    "43097c420efe44768439f2dfa8c43ba7":{
+      "scriptId":"u11"},
+    "a338af1433ee4768be537373e68f3a6a":{
+      "scriptId":"u12"},
+    "b203ae53fe68414aa666ec46671ca738":{
+      "scriptId":"u13"},
+    "58d4112e331f488a94bd3e3a6b5f3c3d":{
+      "scriptId":"u14"},
+    "c1140963bf33439390da625c24a2a4a7":{
+      "scriptId":"u15"},
+    "46e73d2d4ea649cc93a53260f6a36045":{
+      "scriptId":"u16"},
+    "f1b177b6e67e400095773655b39cd334":{
+      "scriptId":"u17"},
+    "1237aeff4ab64a7597dc44cfda0b9f78":{
+      "scriptId":"u18"},
+    "73c7e60061ba4b52b662c564396805d7":{
+      "scriptId":"u19"},
+    "c94b36df401245b08335008abd816c3c":{
+      "scriptId":"u20"},
+    "391fbde8beec4c9396625c1517db5d54":{
+      "scriptId":"u21"},
+    "1c686f82c51147e18aa02da653c87b53":{
+      "scriptId":"u22"},
+    "20e3a03473314da2960a9d65f71a54fd":{
+      "scriptId":"u23"},
+    "c98cfba1f47548f993f8ed1a2de6fb6d":{
+      "scriptId":"u24"},
+    "085718b2ce64484189259da5e3e472c7":{
+      "scriptId":"u25"},
+    "fe193ce91b234ea2a1c46b57c06f1a0c":{
+      "scriptId":"u26"},
+    "82c47c2d570a4df1bd67f478e65e9eb9":{
+      "scriptId":"u27"},
+    "e18089bc918f492f9841079506f03ed4":{
+      "scriptId":"u28"},
+    "78dad0400e2d4224ac10cd5ddad1efb8":{
+      "scriptId":"u29"},
+    "aad4e2e7b88a4b0aa49c61517614a255":{
+      "scriptId":"u30"},
+    "974635ecbcbd48c98a0524f94c532dfe":{
+      "scriptId":"u31"},
+    "ff9afa3e00cd41229910bd3aa39a2362":{
+      "scriptId":"u32"},
+    "99a4f92707ba4be8bc54b5dbdf305b43":{
+      "scriptId":"u33"},
+    "8aa7e20829ff4ea8ac1966bd47191071":{
+      "scriptId":"u34"},
+    "c2ade364b5884f938d59160256e1714a":{
+      "scriptId":"u35"},
+    "964c2cafcaf94d9abb3cbe3adc3eba05":{
+      "scriptId":"u36"},
+    "3adb53df9df141c4a2debe15966b8d15":{
+      "scriptId":"u37"},
+    "a75be6cb21ae4824825800b885ca09bc":{
+      "scriptId":"u38"},
+    "e19f428903194eaead8e3acf2ff450b7":{
+      "scriptId":"u39"},
+    "948ad92934a14df1a8339c4d58f5ddcf":{
+      "scriptId":"u40"},
+    "90272d8d0742403fbdd243798c38ad56":{
+      "scriptId":"u41"},
+    "53044af12e0e4fb8b6a7e797a98bd446":{
+      "scriptId":"u42"},
+    "3e4846d6b85b4910ae79c84e4992ae7a":{
+      "scriptId":"u43"},
+    "4e08adc26254415d9aa248b6486bd386":{
+      "scriptId":"u44"},
+    "b18f0c7ba964477ea6c9bb82ecfb52bb":{
+      "scriptId":"u45"},
+    "d234aa971ecb4244ac300b84065ab7da":{
+      "scriptId":"u46"},
+    "335c9444b79544f3b7f8061d42e5ce99":{
+      "scriptId":"u47"},
+    "75a01d15f52248409fa028e2ef1fa26a":{
+      "scriptId":"u48"},
+    "0111e83e721c419ab495217cca904399":{
+      "scriptId":"u49"},
+    "6dd2801c269441cdb370644f4fc2b144":{
+      "scriptId":"u50"},
+    "b6cf29c9f47746c9bf9f22f2e8f55a17":{
+      "scriptId":"u51"},
+    "2d0eff5464c64788baf219ceb408b7cf":{
+      "scriptId":"u52"},
+    "044b90fc96f44f6bb4f37c5511757cf2":{
+      "scriptId":"u53"},
+    "ceb1a238d634423c94b8c24108a9e4d6":{
+      "scriptId":"u54"},
+    "f26187322c3f439b9995ac9bac751bcd":{
+      "scriptId":"u55"},
+    "5a5cb31469e14f4a963db0df8733120b":{
+      "scriptId":"u56"},
+    "18feaa50d5c84d789cfb9ce2a8035fdd":{
+      "scriptId":"u57"},
+    "1a162583cb134f98bc63b240800bd8c5":{
+      "scriptId":"u58"},
+    "fd282cedee5948af90ab87a3a3439c9c":{
+      "scriptId":"u59"},
+    "417505964af749d99e72673db6614f52":{
+      "scriptId":"u60"},
+    "fb9789ce9dd8417b8bc5df689c5e5c8e":{
+      "scriptId":"u61"},
+    "684fc7279f074db7a00225ae0f81675d":{
+      "scriptId":"u62"},
+    "1cd86989628140d39cf86e61d7d661d2":{
+      "scriptId":"u63"},
+    "39cf81852d37409db9baf0427c6a6199":{
+      "scriptId":"u64"},
+    "c061178824a44b6194bd724a4cdf06f1":{
+      "scriptId":"u65"},
+    "b9d8a17a3d2d4c6895a8b51c3ac7cd7d":{
+      "scriptId":"u66"},
+    "917e189801754d76b129a4a7bfd7d7af":{
+      "scriptId":"u67"},
+    "0668b28669ee4ac996b1ea8f854da7b7":{
+      "scriptId":"u68"},
+    "c2ebe8423f904547bd916907b921c778":{
+      "scriptId":"u69"},
+    "444ded1cde104ea28352c4e5421be658":{
+      "scriptId":"u70"},
+    "80abd5590986435a88afd5c012880ed7":{
+      "scriptId":"u71"},
+    "de007cf76db640bf91b0436f9c9167c0":{
+      "scriptId":"u72"},
+    "ca1db2a4360b4352a58e6b918eb9684f":{
+      "scriptId":"u73"},
+    "101ebba385834bd9af1f6d997ba6dc98":{
+      "scriptId":"u74"},
+    "b46efc62f570459d92a6a71d3d67a2a4":{
+      "scriptId":"u75"},
+    "c4fa34f5d042497bb76a79f1c1a1c176":{
+      "scriptId":"u76"},
+    "6b527415b3c44827bbe0fd2cb3497517":{
+      "scriptId":"u77"},
+    "10619c46393c49278e74f90d668baddb":{
+      "scriptId":"u78"},
+    "d4cc92e4beb74004a7721cefda726466":{
+      "scriptId":"u79"},
+    "bc085c256c784601ab803486286c17e4":{
+      "scriptId":"u80"},
+    "2f228ef5d78d4fcbb333654de9b1194c":{
+      "scriptId":"u81"},
+    "0d88bbb2aabf403fa58e4e9bce0b23ec":{
+      "scriptId":"u82"},
+    "6300f29300fc423882ea3a4fa486ad25":{
+      "scriptId":"u83"},
+    "8b5b25ee7c2a4bc3890d66883c2a82bc":{
+      "scriptId":"u84"},
+    "a477f7e113f3468a805009df637b8836":{
+      "scriptId":"u85"},
+    "433169f272a14d8db9f7163f8f1e6568":{
+      "scriptId":"u86"},
+    "bf69c6092e6345a78823c5715a4e75b6":{
+      "scriptId":"u87"},
+    "4c147046001c4f2ca9e3d2e9d20cbff2":{
+      "scriptId":"u88"},
+    "f5957f29bcda4684b10addf673ea9fde":{
+      "scriptId":"u89"},
+    "8f03f8d884a34b299a776502ee16b1c5":{
+      "scriptId":"u90"},
+    "416b935026d84ad5af308f3f2d5c33c8":{
+      "scriptId":"u91"},
+    "4b4d958c2bb84179b8c102f5b78de9c2":{
+      "scriptId":"u92"},
+    "be7fc00285f147279cff72382e8a92fa":{
+      "scriptId":"u93"},
+    "fc1a8593a88d4cf094508dab121ee2be":{
+      "scriptId":"u94"},
+    "11b33b85b32a4b298b9f73b26ba81ffe":{
+      "scriptId":"u95"},
+    "fed9ee53d36e485caf7663f1f09b9fb3":{
+      "scriptId":"u96"},
+    "4c3d7e18dcb741d197e097c716607da9":{
+      "scriptId":"u97"},
+    "f702d79c9a634ab59317dbf17c9d7c51":{
+      "scriptId":"u98"},
+    "fa8c98bbad494f6987de571962b11958":{
+      "scriptId":"u99"},
+    "f4716d05f73943f59a93683e830a418f":{
+      "scriptId":"u100"},
+    "01cc016e98ff48d3b8454a011353cbb9":{
+      "scriptId":"u101"},
+    "8b0cf3d35f6348eb855b921222292fe5":{
+      "scriptId":"u102"},
+    "e6f461af834e41cdb0ca0a1a01fa2ae7":{
+      "scriptId":"u103"},
+    "970f5254b30849b384531d73c1a8562c":{
+      "scriptId":"u104"},
+    "bd39fb7de7a04c61929fd2e19a522ff7":{
+      "scriptId":"u105"},
+    "38a1fec6432a48f1add1677207245fd1":{
+      "scriptId":"u106"},
+    "28b518f99ada47f9871fe70d7a0ae31c":{
+      "scriptId":"u107"},
+    "5223233a854147aaa233b8d9f519f7ec":{
+      "scriptId":"u108"},
+    "374b46e373b54b4cbfb443bc226b35b9":{
+      "scriptId":"u109"},
+    "a949d707717a474582fa37beb4616416":{
+      "scriptId":"u110"},
+    "5ba22356b65f4fdf9dbf127c30a85797":{
+      "scriptId":"u111"},
+    "168701929c4043abb8a41331baefa1ec":{
+      "scriptId":"u112"},
+    "4fcb5280cad546cbac1925af71fc12be":{
+      "scriptId":"u113"},
+    "2dc63f1203fe49d7945904532a9d72f0":{
+      "scriptId":"u114"},
+    "8c8a7fdc0b22499a963216759e571d57":{
+      "scriptId":"u115"},
+    "484c9fb4fd1a44209539a05ed199f088":{
+      "scriptId":"u116"},
+    "adb77cf6bd734786b335313a6c6d2c50":{
+      "scriptId":"u117"},
+    "a3616d00d2004f4e997884a30252a96d":{
+      "scriptId":"u118"},
+    "e24d4ab00c4e490fa37a793b8cfd3c0d":{
+      "scriptId":"u119"},
+    "b7ca19efca954875856dbd1dc658d9de":{
+      "scriptId":"u120"},
+    "912084e7c0b54153bb2eebddb641ba60":{
+      "scriptId":"u121"},
+    "759d12954d224cb18b7c8f4e01c28c8f":{
+      "scriptId":"u122"},
+    "1b9cc20127704720a9f762fac4880225":{
+      "scriptId":"u123"},
+    "b841d288d942449e8b2f60c1e6a5bbd5":{
+      "scriptId":"u124"},
+    "749ca963235144e98bece07878288b63":{
+      "scriptId":"u125"},
+    "46992418b7d34305aee189a8a00b3abe":{
+      "scriptId":"u126"},
+    "beb5e376c5c447d39ddeeb56b95f7824":{
+      "scriptId":"u127"},
+    "040d7c2714cb4304af9b91bc533fbc6c":{
+      "scriptId":"u128"},
+    "796988242c0b42df92413c6f9abe4ebd":{
+      "scriptId":"u129"},
+    "18e48d1d000643928f1febb9c62d8314":{
+      "scriptId":"u130"},
+    "9c040e4738ed47409ee861afc386a90b":{
+      "scriptId":"u131"},
+    "5b6a00f1f98042cca46064df95990c73":{
+      "scriptId":"u132"},
+    "e109ee53125a449997731d0b9d60f490":{
+      "scriptId":"u133"},
+    "04aa5102b65a4e85af2ba8a5dfe0fec0":{
+      "scriptId":"u134"},
+    "beb9e331f01e48fea85caa868a823e58":{
+      "scriptId":"u135"},
+    "a3380814eaec47c58fd0a3327d552912":{
+      "scriptId":"u136"},
+    "9b6f9a00cd9945f1bf8c457839374b1d":{
+      "scriptId":"u137"},
+    "0aa85d8f20e64a5e8bece33f73151290":{
+      "scriptId":"u138"},
+    "bc3a8075b6bc42c0b6796d59ee18e3e4":{
+      "scriptId":"u139"},
+    "7e5accdea20d464bb15215e89ec8c664":{
+      "scriptId":"u140"},
+    "356431a3fe34444b815be968f6151a4f":{
+      "scriptId":"u141"},
+    "16dc8a561680458194fc40d6185986aa":{
+      "scriptId":"u142"},
+    "9d1155885842485c9718d52819b3542e":{
+      "scriptId":"u143"},
+    "c5dc712fb8d64b27bf126b0ae70fc490":{
+      "scriptId":"u144"},
+    "5ab024c707a249f18e16f15ef8272780":{
+      "scriptId":"u145"},
+    "9f67751248c347c389d60ab856c9d04d":{
+      "scriptId":"u146"},
+    "878c0f3c42f241618b77ef79f6a8a5e6":{
+      "scriptId":"u147"},
+    "3f4b9a8546b34c70ae8561098d391a50":{
+      "scriptId":"u148"},
+    "fe4903e34e8d4a08bfd4ea4c5ab27006":{
+      "scriptId":"u149"},
+    "49985ad311eb4591b0c4fca8fe553bba":{
+      "scriptId":"u150"},
+    "fec2c363350e4c5c809927b64ef656b2":{
+      "scriptId":"u151"},
+    "65918f8844a94e618507e213414f7394":{
+      "scriptId":"u152"},
+    "222bca83da8843d6bb6e55e3e0cf4451":{
+      "scriptId":"u153"},
+    "60b30668d8f1454cb76efb5852025d38":{
+      "scriptId":"u154"},
+    "a9c86671dd4a46a2bda33beb501ce63a":{
+      "scriptId":"u155"},
+    "25bab28d74f04c7f866c4d96da02ba19":{
+      "scriptId":"u156"},
+    "d71765f166784f4d84da083374e4452b":{
+      "scriptId":"u157"},
+    "4fe07debf3f444e699ae256759dc9a39":{
+      "scriptId":"u158"},
+    "6d16753d6146464bb5ff70b58b8a31a1":{
+      "scriptId":"u159"},
+    "a387a30f7ba44e39b01a03f302fd240d":{
+      "scriptId":"u160"},
+    "e6de32cb045143969a844cec792143d7":{
+      "scriptId":"u161"},
+    "66efaf5073234eeea04d4906dd2abe50":{
+      "scriptId":"u162"},
+    "217b0ba96b7348f08590663c40a93cee":{
+      "scriptId":"u163"},
+    "4eb9351f20d4427099cec7775d18a4e2":{
+      "scriptId":"u164"}}});
